@@ -10,7 +10,8 @@ As a user, you can sign in using Google social sign in. Once signed in, you can 
 
 ### Check out an example
 
-See the live website [iNeedToBuy.xyz](https://app.ineedtobuy.xyz/)
+See the live website [Promptverse](https://promptverse-lemon.vercel.app/)
+![image](https://github.com/mikeyxx/promptverse/assets/79487718/ca45e481-59e4-444d-ab78-9da696842736)
 
 <hr>
 
