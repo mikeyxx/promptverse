@@ -38,7 +38,7 @@ function MyProfile() {
           method: "DELETE",
         });
         const filteredPosts = posts.filter(
-          (availPost) => availPost._id === post._id
+          (availPost) => availPost._id !== post._id
         );
 
         setPosts(filteredPosts);
