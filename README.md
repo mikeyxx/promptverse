@@ -10,7 +10,8 @@ As a user, you can sign in using Google social sign in. Once signed in, you can 
 
 ### Check out an example
 
-See the live website [iNeedToBuy.xyz](https://app.ineedtobuy.xyz/)
+See the live website [Promptverse](https://promptverse-lemon.vercel.app/)
+![image](https://github.com/mikeyxx/promptverse/assets/79487718/ca45e481-59e4-444d-ab78-9da696842736)
 
 <hr>
 
@@ -34,7 +35,6 @@ On GitHub, navigate to the repo for promptVerse (you’re probably there right n
 From your terminal, `cd` into the directory where you want this project to live.
 
 Once you’re in the directory, type `git clone` followed by the web URL you just copied to your clipboard from GitHub. Then `cd` into the directory that is created.
-![screenshot of how to git clone](_resources/images/02_git_clone_and_cd.jpg)
 
 ### Install the project’s dependencies
 
@@ -51,6 +51,7 @@ yarn dev
 pnpm dev. 
 ```
 You should be able to see the project at [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image](https://github.com/mikeyxx/promptverse/assets/79487718/ca45e481-59e4-444d-ab78-9da696842736)
 
-# promptverse
+
 # promptverse
