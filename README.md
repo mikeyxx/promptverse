@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 PromptVerse is an open-source AI prompting tool for modern world to discover, create and share creative prompts
 
+**Please Note:** The database for this project is hosted on a free Mongo Atlas tier so it may take a few minutes to load and display all data on the initial start!
+
 ### How does it work?
 
 As a user, you can sign in using Google social sign in. Once signed in, you can click the "Create Post" button which will take you a page where you can enter your prompt and a corresponding tag and click on the "Create" button to save the post. Once saved, your post appears on the homepage where you and other users can view all created prompts. You can also delete or update your prompt by going to your profile where you will see "Delete" and "Edit" buttons if you are signed in. Users can also view a list of other users prompt by clicking on their name, email or avi on the homepage
