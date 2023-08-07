@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 PromptVerse is an open-source AI prompting tool for modern world to discover, create and share creative prompts
 
-**Please Note: The database for this project is hosted on a free Mongo Atlas tier so it may take a few minutes to load and display all data on the initial start**
+**Please Note: The database for this project is hosted on a free Mongo Atlas tier so it may take a few minutes to load and display all data on the initial start.**
 
 ### How does it work?
 
